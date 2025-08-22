@@ -7329,6 +7329,12 @@ export const extraRpcs = {
         tracking: "none",
         trackingDetails: privacyStatement.ankr,
       },
+      {
+        url: "https://eon-mainnet.gateway.tatum.io/",
+        tracking: "none",
+        trackingDetails: privacyStatement.tatum,
+      },
+
     ],
   },
   1663: {
